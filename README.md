@@ -9,7 +9,7 @@
 - Integration with the Giphy API
 - GIFs displayed in a responsive grid layout
 - Clicking on a GIF opens a new activity with detailed information
-- Infinite scroll (pagination: more GIFs are loaded as the user scrolls)
+- Infinite scroll (more GIFs are loaded as the user scrolls)
 - Unit tests included
 - Animated circular loading icon shown while GIFs are loading
 
